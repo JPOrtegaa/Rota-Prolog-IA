@@ -5,7 +5,7 @@ Busca de trajeto de viagem, dada uma cidade inicial até determinada final, com 
 
 **Discentes:** João Pedro Ortega, Enzo Bonfante.
 
-**Doscentes:** Huei Diana Lee, Newton Spolaôr.
+**Docentes:** Huei Diana Lee, Newton Spolaôr.
 
 ## Funcionamento
 1. **Abra o terminal e mude o diretório onde o projeto foi instalado**
