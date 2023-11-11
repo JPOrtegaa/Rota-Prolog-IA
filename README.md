@@ -24,6 +24,7 @@ Busca de trajeto de viagem, dada uma cidade inicial até determinada final, com 
 - menor_caminho(CidadeInicial,CidadeFinal).
 
 6. **Resultado neste formato**
+    
     Trajeto
 
     [cidadeInicial,cidade2,...,cidadeFinal]
