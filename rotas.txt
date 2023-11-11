@@ -1,0 +1,6 @@
+rota(a,b,2).
+rota(b,c,4).
+rota(d,f,6).
+rota(g,h,9).
+rota(a,i,4).
+rota(a,d,3).
