@@ -1,11 +1,11 @@
 # Rota de menor preço Prolog
-1° Projeto da disciplina de Inteligência Artificial, UNIOESTE.
+**1° Projeto da disciplina de Inteligência Artificial, UNIOESTE.**
 
 Busca de trajeto de viagem, dada uma cidade inicial até determinada final, com menor preço.
 
-Discentes: João Pedro Ortega, Enzo Bonfante.
+**Discentes:** João Pedro Ortega, Enzo Bonfante.
 
-Doscentes: Huei Diana Lee, Newton Spolaôr.
+**Doscentes:** Huei Diana Lee, Newton Spolaôr.
 
 ## Funcionamento
 1. **Abra o terminal e mude o diretório onde o projeto foi instalado**
