@@ -8,7 +8,7 @@ Discentes: João Pedro Ortega, Enzo Bonfante.
 Doscentes: Huei Diana Lee, Newton Spolaôr.
 
 ## Funcionamento
-1. Abra o terminal e mude o diretório onde o projeto foi instalado
+1. **Abra o terminal e mude o diretório onde o projeto foi instalado**
 - cd path\to\project
 
 2. Inicie o interpretador SWI-Prolog
